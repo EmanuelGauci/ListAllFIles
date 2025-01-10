@@ -1,0 +1,16 @@
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\bin\Debug\net8.0-windows\AllFilesLister.exe
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\bin\Debug\net8.0-windows\AllFilesLister.deps.json
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\bin\Debug\net8.0-windows\AllFilesLister.runtimeconfig.json
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\bin\Debug\net8.0-windows\AllFilesLister.dll
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\bin\Debug\net8.0-windows\AllFilesLister.pdb
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\obj\Debug\net8.0-windows\AllFilesLister.Form1.resources
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\obj\Debug\net8.0-windows\AllFilesLister.csproj.GenerateResource.cache
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\obj\Debug\net8.0-windows\AllFilesLister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\obj\Debug\net8.0-windows\AllFilesLister.AssemblyInfoInputs.cache
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\obj\Debug\net8.0-windows\AllFilesLister.AssemblyInfo.cs
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\obj\Debug\net8.0-windows\AllFilesLister.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\obj\Debug\net8.0-windows\AllFilesLister.dll
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\obj\Debug\net8.0-windows\refint\AllFilesLister.dll
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\obj\Debug\net8.0-windows\AllFilesLister.pdb
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\obj\Debug\net8.0-windows\AllFilesLister.genruntimeconfig.cache
+C:\Users\emanu\Documents\My documents\Experiments\AllFilesLister\AllFilesLister\AllFilesLister\obj\Debug\net8.0-windows\ref\AllFilesLister.dll
