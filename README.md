@@ -8,4 +8,4 @@ This started as an experiment in power shell because I wanted a more efficient w
 ![image](https://github.com/user-attachments/assets/5ec5b54c-43c3-4ea7-8dc3-804cd6a49d5f)
 
 ## use example
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v7aBZXSweL8" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/v7aBZXSweL8/0.jpg)](https://www.youtube.com/watch?v=v7aBZXSweL8)
